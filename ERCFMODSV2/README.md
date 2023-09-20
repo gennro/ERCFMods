@@ -1,6 +1,6 @@
 #To probably get everything to make up will probably be the V2 at somepoint requires pulling files from 6 different repositories below.
 
-##STHis is the main ERCF repo which is really dated at this point, the manual is still useful for a first timer. I really suggest getting most of the stl files needed from the sturdy bunny project.
+##THis is the main ERCF repo which is really dated at this point, the manual is still useful for a first timer. I really suggest getting most of the stl files needed from the sturdy bunny project.
 https://github.com/EtteGit/EnragedRabbitProject
 
 ##Then the sturdy bunny project which replaces the threaded rods with a piece of 2020. If you are going tiple decky then do not print any of the blocks, only the parts needed to attach the ERCF to the 2020.
