@@ -3,7 +3,7 @@ To probably get everything to make up will probably be the V2 at somepoint requi
 This is the main ERCF repo which is really dated at this point, the manual is still useful for a first timer. I really suggest getting most of the stl files needed from the sturdy bunny project.
 https://github.com/EtteGit/EnragedRabbitProject
 
-Then the sturdy bunny project which replaces the threaded rods with a piece of 2020. If you are going tiple decky then do not print any of the blocks, only the parts needed to attach the ERCF to the 2020.
+Then the sturdy bunny project which replaces the threaded rods with a piece of 2020. If you are going triple decky then do not print any of the blocks, only the parts needed to attach the ERCF to the 2020.
  https://github.com/sneakytreesnake/SturdyBunnyProject
 
 Triple decky this is really a whole redesign of the blocks for loading and unloading filament, version V6.3 is the latest and this allows 3 position servo control over each filament block, really innovate work here from Gneu. This mod really need a good digital servo though like the Savox SH0255MGP, you can use other digital servos just make sure they release when signal removed or they will return to neutral which will not work. You can program most digital servos though with a programmer.
