@@ -22,6 +22,8 @@ And last a filament cutter which I think is a must have. This saves all of the h
 https://github.com/sorted01/Filametrix
 
 
+
+
 This below from Moggieguk:
 
 Hi!  Happy Hare is (has) growing to support all types of MMU types and configurations.  For best ERCF experience you want, IMHO, a quality homing point at the extruder. If you don't then you can fallback to colliding with the extruder and detecting that through encoder feedback or stallguard.  The toolhead sensor past the gears provides both homing point and good indication of filament in the extruder, but support for a sensor just prior to the gears is ready to roll out.
